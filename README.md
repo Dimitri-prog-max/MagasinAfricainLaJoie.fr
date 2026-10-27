@@ -1,2 +1,2 @@
-# MagasinAfricainLaJoie.fr-
+# MagasinAfricainLaJoie.fr
 Site vitrine 
